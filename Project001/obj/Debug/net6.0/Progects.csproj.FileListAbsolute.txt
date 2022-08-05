@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\bin\Debug\net6.0\Progects.exe
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\bin\Debug\net6.0\Progects.deps.json
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\bin\Debug\net6.0\Progects.runtimeconfig.json
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\bin\Debug\net6.0\Progects.dll
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\bin\Debug\net6.0\Progects.pdb
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\Progects.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\Progects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\Progects.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\Progects.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\Progects.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\Progects.dll
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\refint\Progects.dll
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\Progects.pdb
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\Progects.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Progects\obj\Debug\net6.0\ref\Progects.dll
