@@ -1,9 +1,7 @@
 ﻿Console.Write("Введите  число: ");
 int a;
-int n;
 a = Convert.ToInt32(Console.ReadLine());
-n = a%2;
-if (n == 0 )
+if (a%2 == 0 )
 {
     Console.Write(a);
     Console.WriteLine(" - да, число является четным "); 
