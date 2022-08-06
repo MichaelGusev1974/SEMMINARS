@@ -4,7 +4,8 @@ number = Convert.ToInt32(Console.ReadLine());
 int a = 0 - number;
 while (a <= number)
 {
-    Console.WriteLine(a);
+    Console.Write(a);
+    Console.Write("  ");
     a++;
 }
 
