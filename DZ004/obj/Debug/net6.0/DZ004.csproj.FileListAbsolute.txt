@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\bin\Debug\net6.0\DZ004.exe
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\bin\Debug\net6.0\DZ004.deps.json
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\bin\Debug\net6.0\DZ004.runtimeconfig.json
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\bin\Debug\net6.0\DZ004.dll
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\bin\Debug\net6.0\DZ004.pdb
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\DZ004.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\DZ004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\DZ004.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\DZ004.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\DZ004.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\DZ004.dll
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\refint\DZ004.dll
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\DZ004.pdb
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\DZ004.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\Обучение в GeekBrains\C#\Semminars\DZ004\obj\Debug\net6.0\ref\DZ004.dll
