@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\Обучение в GeekBrains\\C#\\Sam\\sam1.2\\sam1.2.csproj",
-      "projectName": "sam1.2",
-      "projectPath": "C:\\Users\\Михаил\\Desktop\\Обучение в GeekBrains\\C#\\Sam\\sam1.2\\sam1.2.csproj",
+      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\Обучение в GeekBrains\\C#\\Semminars\\Project003\\Project003.csproj",
+      "projectName": "Project003",
+      "projectPath": "C:\\Users\\Михаил\\Desktop\\Обучение в GeekBrains\\C#\\Semminars\\Project003\\Project003.csproj",
       "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Михаил\\Desktop\\Обучение в GeekBrains\\C#\\Sam\\sam1.2\\obj\\",
+      "outputPath": "C:\\Users\\Михаил\\Desktop\\Обучение в GeekBrains\\C#\\Semminars\\Project003\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config"
