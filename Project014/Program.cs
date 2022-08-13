@@ -14,6 +14,6 @@ int Bx = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите y:  ");
 int By = Convert.ToInt32(Console.ReadLine());
 
-int distans = Convert.ToInt32(Math.Sqrt(Math.Pow((Ax - Bx),2) + Math.Pow((Ay - By),2)));
-
+double distans = Math.Sqrt(Math.Pow((Ax - Bx),2) + Math.Pow((Ay - By),2));
+distans = Math.Round(distans,2);
 Console.WriteLine(distans);
