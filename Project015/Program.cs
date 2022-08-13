@@ -7,3 +7,4 @@ while(index <= num)
     Console.Write($"{index*index} ");
     index++;
 }
+Console.WriteLine();
