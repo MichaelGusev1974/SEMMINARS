@@ -3,18 +3,18 @@
 //A (7,-5, 0); B (1,-1,9) -> 11.53
 Console.Clear();
 Console.WriteLine("Введите координаты первой точки А:  ");
-Console.WriteLine("Введите x:  ");
+Console.Write("Введите x:  ");
 int Ax = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите y:  ");
+Console.Write("Введите y:  ");
 int Ay = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите z:  ");
+Console.Write("Введите z:  ");
 int Az = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите координаты второй точки B:  ");
-Console.WriteLine("Введите x:  ");
+Console.Write("Введите x:  ");
 int Bx = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите y:  ");
+Console.Write("Введите y:  ");
 int By = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите z:  ");
+Console.Write("Введите z:  ");
 int Bz = Convert.ToInt32(Console.ReadLine());
 
 double distans = Math.Sqrt(Math.Pow((Ax - Bx),2) + Math.Pow((Ay - By),2) 
