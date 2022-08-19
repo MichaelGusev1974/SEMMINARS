@@ -18,7 +18,7 @@ void MultNumber(int n)
     {   
         for(int i = 1;i <= n ; i++)
         {
-            result*= i; 
+            result = result*i; 
         }
         //return result;
     Console.WriteLine(result);  

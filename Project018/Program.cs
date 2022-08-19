@@ -2,7 +2,7 @@
 
 //1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]; 6, 1, 33 -> [6, 1, 33]
 
-int[] array = new int[8];
+int[] array = new int[20];
 void FillArray(int[] array)
 {
     int i = 0;
