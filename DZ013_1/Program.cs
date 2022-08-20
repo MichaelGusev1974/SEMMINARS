@@ -5,14 +5,12 @@ int[] arrayNew = new int[8];
 int [] FillArray(int[] array)
 {
     int count = array.Length;
-    int i = 0;
-    
-    while( i < count)
+    for(int i = 0; i < count; i++)
     {
-        array[i] = new Random().Next(0,100);
-        i++;
+        array[i] = new Random().Next(0,10);  
     }
-    return array;  
+    return array; 
+    
 }
 arrayNew = FillArray(arrayNew);
-Console.WriteLine(arrayNew[7]);
+Console.Write(arrayNew);
