@@ -1,6 +1,5 @@
 ﻿// Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
 //[3, 7, 23, 12] -> 19 ;[-4, -6, 89, 6] -> 0
-
 Console.Clear();
 int size = 15;
 int[] newarray = new int[size];
@@ -19,7 +18,6 @@ void PrintArray(int[] array)
     {
         if(array[i] % 2 != 0) count+=array[i];
     }
-
     Console.WriteLine();
     Console.WriteLine($"Сумма не четных чисел равна: {count} ");
 }
