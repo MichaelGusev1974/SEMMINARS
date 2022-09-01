@@ -5,7 +5,7 @@
 // Результирующая матрица будет:
 // 18 20
 // 15 18
-Console.Clear();
+//Console.Clear();
 void FillMatrix(int[,] matrix)
 {
     for(int i = 0; i < matrix.GetLength(0); i++)
@@ -46,10 +46,10 @@ void ProductMatrix(int[,]matrix1, int[,]matrix2, int[,] matrix3)
        Console.WriteLine(); 
     }
 }
-int rows1 = 2;
+int rows1 = 3;
 int columns1 = 3;
 int rows2 = 4;
-int columns2 = 2;
+int columns2 = 4;
 int[,] matrix1 = new int[rows1, columns1];
 int[,] matrix2 = new int[rows2, columns2];
 int[,] product = new int[rows1, columns2];
