@@ -42,7 +42,6 @@ void SpiralFillMatrix(int m, int n, int[,] matrix)
             } 
             l++;
         }
-        
     }    
 }
 void PrintMatrix(int[,] matrix)
