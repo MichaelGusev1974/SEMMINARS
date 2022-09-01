@@ -65,8 +65,6 @@ int[] SumElementOfRows(int[,] array)
     }
     Console.WriteLine($"Наименьшая сумма элементов в строке {index} = {min} "); 
 }   
-
-
 int rows = rand.Next(4, 8);
  int columns = rand.Next(4, 10);
 int[,] newArray = new int [rows,columns];
