@@ -13,3 +13,4 @@
  Console.WriteLine("Введите число n ");
  int n = Convert.ToInt32(Console.ReadLine());
  Console.WriteLine(NumbersRec(a, n));
+ 
